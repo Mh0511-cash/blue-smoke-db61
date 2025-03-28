@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "blue-smoke-db61",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "08f127c6-712f-43cd-a56b-9c612ddc19de",
+      "database_name": "shy-butterfly-49aa-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
